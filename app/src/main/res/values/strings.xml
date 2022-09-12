@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="height_cm">Height (CM)</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="Calculate">Calculate</string>
+    <string name="weight_kg">Weight (KG)</string>
+    <string name="enter_your_weight">Enter your weight:</string>
+    <string name="enter_your_height">Enter your height:</string>
+</resources>
